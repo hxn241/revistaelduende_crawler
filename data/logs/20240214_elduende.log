@@ -1,0 +1,135 @@
+10:27:56 - INFO: ELDUENDE. Process started
+10:28:00 - INFO: fetching links from sitemap
+10:28:06 - INFO: Total links found: 210
+10:28:11 - INFO: 
+
+10:28:11 - INFO: ====== WebDriver manager ======
+10:28:12 - INFO: Current google-chrome version is 121.0.6167
+10:28:12 - INFO: Get LATEST chromedriver version for 121.0.6167 google-chrome
+10:44:47 - INFO: ELDUENDE. Process started
+10:44:48 - INFO: fetching links from sitemap
+10:44:54 - INFO: Total links found: 0
+10:44:56 - INFO: ====== WebDriver manager ======
+10:44:57 - INFO: Get LATEST chromedriver version for google-chrome
+10:44:57 - INFO: Get LATEST chromedriver version for google-chrome
+10:44:57 - INFO: Get LATEST chromedriver version for google-chrome
+10:44:57 - INFO: WebDriver version 121.0.6167.85 selected
+10:44:57 - INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/121.0.6167.85/win32/chromedriver-win32.zip
+10:44:57 - INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/121.0.6167.85/win32/chromedriver-win32.zip
+10:44:57 - INFO: Driver downloading response is 200
+10:44:58 - INFO: Get LATEST chromedriver version for google-chrome
+10:44:58 - INFO: Driver has been saved in cache [C:\Users\christian.escudero\.wdm\drivers\chromedriver\win64\121.0.6167.85]
+10:45:57 - INFO: ====== WebDriver manager ======
+10:45:57 - INFO: Get LATEST chromedriver version for google-chrome
+10:45:58 - INFO: Get LATEST chromedriver version for google-chrome
+10:45:58 - INFO: Driver [C:\Users\christian.escudero\.wdm\drivers\chromedriver\win64\121.0.6167.85\chromedriver-win32/chromedriver.exe] found in cache
+10:46:32 - INFO: ====== WebDriver manager ======
+10:46:34 - INFO: Get LATEST chromedriver version for google-chrome
+10:46:34 - INFO: Get LATEST chromedriver version for google-chrome
+10:46:34 - INFO: Driver [C:\Users\christian.escudero\.wdm\drivers\chromedriver\win64\121.0.6167.85\chromedriver-win32/chromedriver.exe] found in cache
+10:46:57 - INFO: ELDUENDE. Process started
+10:47:00 - INFO: fetching links from sitemap
+10:47:06 - INFO: Total links found: 0
+10:47:13 - INFO: ====== WebDriver manager ======
+10:47:14 - INFO: Get LATEST chromedriver version for google-chrome
+10:47:14 - INFO: Get LATEST chromedriver version for google-chrome
+10:47:14 - INFO: Driver [C:\Users\christian.escudero\.wdm\drivers\chromedriver\win64\121.0.6167.85\chromedriver-win32/chromedriver.exe] found in cache
+10:47:33 - INFO: ====== WebDriver manager ======
+10:47:34 - INFO: Get LATEST chromedriver version for google-chrome
+10:47:34 - INFO: Get LATEST chromedriver version for google-chrome
+10:47:34 - INFO: Driver [C:\Users\christian.escudero\.wdm\drivers\chromedriver\win64\121.0.6167.85\chromedriver-win32/chromedriver.exe] found in cache
+10:48:04 - INFO: ELDUENDE. Process started
+10:48:09 - INFO: fetching links from sitemap
+10:48:15 - INFO: Total links found: 0
+10:50:13 - INFO: ELDUENDE. Process started
+10:50:15 - INFO: fetching links from sitemap
+10:52:00 - INFO: ====== WebDriver manager ======
+10:52:01 - INFO: Get LATEST chromedriver version for google-chrome
+10:52:01 - INFO: Get LATEST chromedriver version for google-chrome
+10:52:01 - INFO: Driver [C:\Users\christian.escudero\.wdm\drivers\chromedriver\win64\121.0.6167.85\chromedriver-win32/chromedriver.exe] found in cache
+10:52:15 - INFO: scraping article: 0/209
+10:52:50 - INFO: Article older than last 24h: https://revistaelduende.com/prueba/
+10:52:50 - INFO: scraping article: 1/209
+10:53:12 - INFO: Article older than last 24h: https://revistaelduende.com/wp-content/uploads/2023/12/logo-previsual.jpg
+10:53:12 - INFO: scraping article: 2/209
+11:31:28 - INFO: ELDUENDE. Process started
+11:31:32 - INFO: fetching links from sitemap
+11:35:41 - INFO: ELDUENDE. Process started
+11:35:44 - INFO: fetching links from sitemap
+11:40:43 - INFO: ELDUENDE. Process started
+11:40:50 - INFO: fetching links from sitemap
+11:42:01 - INFO: ELDUENDE. Process started
+11:42:05 - INFO: fetching links from sitemap
+11:42:34 - INFO: ELDUENDE. Process started
+11:42:39 - INFO: fetching links from sitemap
+11:43:56 - INFO: ELDUENDE. Process started
+11:43:58 - INFO: fetching links from sitemap
+11:45:05 - INFO: ====== WebDriver manager ======
+11:45:06 - INFO: Get LATEST chromedriver version for google-chrome
+11:45:06 - INFO: Get LATEST chromedriver version for google-chrome
+11:45:06 - INFO: Driver [C:\Users\christian.escudero\.wdm\drivers\chromedriver\win64\121.0.6167.85\chromedriver-win32/chromedriver.exe] found in cache
+11:45:07 - INFO: scraping article: 0/30
+11:45:12 - INFO: Article older than last 24h: https://revistaelduende.com/articulo/ied-creatividadcompromiso-y-transformacion/
+11:45:12 - INFO: scraping article: 1/30
+11:45:16 - INFO: Article older than last 24h: https://revistaelduende.com/articulo/fritz-kola-la-aktitud-importa/
+11:45:16 - INFO: scraping article: 2/30
+11:45:18 - INFO: Article older than last 24h: https://revistaelduende.com/articulo/mirto-la-obra-maestra-de-ramon-bilbao/
+11:45:18 - INFO: scraping article: 3/30
+11:45:22 - INFO: Article older than last 24h: https://revistaelduende.com/articulo/la-oca-selezione-un-clasico-en-la-vanguardia/
+11:45:22 - INFO: scraping article: 4/30
+11:45:25 - INFO: Article older than last 24h: https://revistaelduende.com/articulo/la-belleza-del-mecanismo-coleccionaustral/
+11:45:25 - INFO: scraping article: 5/30
+11:45:29 - INFO: Article older than last 24h: https://revistaelduende.com/articulo/creadores-con-la-c/
+11:45:29 - INFO: scraping article: 6/30
+11:45:30 - INFO: Article older than last 24h: https://revistaelduende.com/plan/licor-43-apuesta-por-la-cultura-del-cafe-en-la-cocteleria/
+11:45:30 - INFO: scraping article: 7/30
+11:45:34 - INFO: Article older than last 24h: https://revistaelduende.com/plan/joe-henry-la-cancion-que-sobresale-de-la-sombra/
+11:45:34 - INFO: scraping article: 8/30
+11:45:37 - INFO: Article older than last 24h: https://revistaelduende.com/plan/imagine-music-fest-da-la-bienvenida-al-otono-con-tres-conciertos-acusticos/
+11:45:37 - INFO: scraping article: 9/30
+11:45:38 - INFO: Article older than last 24h: https://revistaelduende.com/plan/honor-90-el-buen-rollo-noventero/
+11:45:38 - INFO: scraping article: 10/30
+11:45:41 - INFO: Article older than last 24h: https://revistaelduende.com/plan/como-tratar-el-atun-rojo-de-almadraba-descubrelo-en-este-showcooking/
+11:45:41 - INFO: scraping article: 11/30
+11:45:43 - INFO: Article older than last 24h: https://revistaelduende.com/plan/enoturismo-de-costa-cata-de-vinos-marca-cantabria-en-bodegas-miradorio/
+11:45:43 - INFO: scraping article: 12/30
+11:45:46 - INFO: Article older than last 24h: https://revistaelduende.com/plan/homenaje-en-escena-a-los-suenos-de-la-vida-me-lo-dijeron-mil-veces/
+11:45:46 - INFO: scraping article: 13/30
+11:45:50 - INFO: Article older than last 24h: https://revistaelduende.com/plan/de-vuelta-a-la-oficina-planes-para-despedir-el-verano-a-lo-grande/
+11:45:50 - INFO: scraping article: 14/30
+11:45:52 - INFO: Article older than last 24h: https://revistaelduende.com/plan/cris-blanco-viaje-a-la-infancia/
+11:45:52 - INFO: scraping article: 15/30
+11:45:54 - INFO: Article older than last 24h: https://revistaelduende.com/plan/la-guia-yadea-del-madrid-sostenible/
+11:45:54 - INFO: scraping article: 16/30
+11:45:59 - INFO: Article older than last 24h: https://revistaelduende.com/plan/cristina-de-middle-se-acerca-al-otro-lado-de-las-historias-con-cartas-al-director/
+11:45:59 - INFO: scraping article: 17/30
+11:46:03 - INFO: Article older than last 24h: https://revistaelduende.com/plan/un-agosto-sin-salir-de-madrid/
+11:46:03 - INFO: scraping article: 18/30
+11:46:05 - INFO: Article older than last 24h: https://revistaelduende.com/plan/carlos-i-la-recreacion-del-brandy-con-sabor-a-verano/
+11:46:05 - INFO: scraping article: 19/30
+11:46:09 - INFO: Article older than last 24h: https://revistaelduende.com/plan/la-belleza-de-un-instante/
+11:46:09 - INFO: scraping article: 20/30
+11:46:13 - INFO: Article older than last 24h: https://revistaelduende.com/plan/alfred-cointreau-naranjas-margaritas-y-raices/
+11:46:13 - INFO: scraping article: 21/30
+11:46:17 - INFO: Article older than last 24h: https://revistaelduende.com/plan/kraftwerk-lo-que-fue-vanguardia-se-convierte-en-clasico/
+11:46:17 - INFO: scraping article: 22/30
+11:46:21 - INFO: Article older than last 24h: https://revistaelduende.com/plan/oumou-sangare-la-musica-como-resistencia-vital/
+11:46:21 - INFO: scraping article: 23/30
+11:46:24 - INFO: Article older than last 24h: https://revistaelduende.com/plan/ocho-lecturas-sabrosas-para-cocinar-en-casa/
+11:46:24 - INFO: scraping article: 24/30
+11:46:28 - INFO: Article older than last 24h: https://revistaelduende.com/plan/moda-que-conecta-naturaleza-y-tradicion-en-el-desfile-anual-del-ied/
+11:46:28 - INFO: scraping article: 25/30
+11:46:32 - INFO: Article older than last 24h: https://revistaelduende.com/plan/maria-rodes-las-canciones-que-nos-tocan-la-fibra/
+11:46:32 - INFO: scraping article: 26/30
+11:46:36 - INFO: Article older than last 24h: https://revistaelduende.com/plan/la-actriz-vanesa-romero-publica-su-primera-novela/
+11:46:36 - INFO: scraping article: 27/30
+11:46:39 - INFO: Article older than last 24h: https://revistaelduende.com/plan/razing-liberty-square-gentrificacion-climatica-en-el-corazon-de-miami/
+11:46:39 - INFO: scraping article: 28/30
+11:46:41 - INFO: Article older than last 24h: https://revistaelduende.com/ruta/la-ruta-del-jazz/
+11:46:41 - INFO: scraping article: 29/30
+11:46:43 - INFO: Article older than last 24h: https://revistaelduende.com/ruta/la-ruta-del-ramen/
+11:47:00 - INFO: ====== WebDriver manager ======
+11:47:01 - INFO: Get LATEST chromedriver version for google-chrome
+11:47:01 - INFO: Get LATEST chromedriver version for google-chrome
+11:47:01 - INFO: Driver [C:\Users\christian.escudero\.wdm\drivers\chromedriver\win64\121.0.6167.85\chromedriver-win32/chromedriver.exe] found in cache
+11:47:11 - INFO: scraping article: 0/30

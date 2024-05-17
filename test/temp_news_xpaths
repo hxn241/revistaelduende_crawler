@@ -1,0 +1,60 @@
+PLANES
+
+title_xpath_temp: //head//title//text()
+
+author = (//*[@data-elementor-type="single-post"]//section)[2]//*[contains(text(),'POR')]
+
+publication_date = (//*[@data-elementor-type="single-post"]//section)[2]//*[contains(text(),'/')]
+
+header_image = //head/meta[@property='og:image']/@content
+content_images = None
+intro = //head/meta[@name='description']/@content
+content = (//*[@data-elementor-type="single-post"]//section)[4] # intro no esta dentro de content
+
+
+RUTAS
+
+title_xpath_temp: //head//title//text()
+author = ((//*[@data-elementor-type="single-post"]//section//section)[3]//style/parent::div[1]/text())[2]
+header_image = //head/meta[@property='og:image']/@content
+intro_title = (//div/h2)[1]/text()
+intro_text = (//section)[10]
+content_images = None
+publicationdate: None
+title_content+description = //section//section//section[contains(@class,'titulo')]//*[self::h3 or self::p]
+content = //section//section//section//section/div coger el texto
+#content: //section//div//*[self::h3 or self::h4 or self::p or self::h2] todo menos lo ultimo
+content_+_images: //section//div//*[self::h3 or self::h4 or self::p or self::img[contains(@src, 'webp')]]
+intro=None
+
+ARTICULOS
+title_xpath_temp: //head//title//text()
+author = (//*[@data-elementor-type="single-post"]//section)[1]//h2[contains(text(), 'POR')]
+header_image = //head/meta[@property='og:image']/@content
+content_images = None
+#xpath_content_1_no = //*[@data-elementor-type="single-post"]//section//section//section      (hay mas de una seccion)
+#xpath_content_2_no = (//*[@data-elementor-type="single-post"]//section//section)[4]
+
+xpath_content_3 = (//*[@data-elementor-type="single-post"]//section)[4] (probado en varios, es el bueno) intro dentro de content
+
+intro = //head/meta[@name='description']/@content
+publication_date = (//*[@data-elementor-type="single-post"]//section)[1]//h2[contains(text(), '/')]
+
+
+
+
+
+
+Articulo
+title = clean_text(tree.xpath("//head//title//text()")).split("-")[0].strip()
+intro = clean_text(tree.xpath("//head/meta[@name='description']/@content"))
+content = clean_text(x.text for x in tree.xpath(xpath_content))
+
+
+
+
+
+
+
+
+
